@@ -1,0 +1,25 @@
+p
+{
+ 					text-align: left;
+font-family: Verdana;
+}
+
+p.test
+{
+text-decoration: underline;
+color: #b22222;
+					 text-align: center;
+}
+
+
+p.test2
+{
+ text-align: right;
+ font-style: italic;
+}
+
+h1
+{
+ font-size: 2em;
+color: blue;
+}
